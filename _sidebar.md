@@ -1,6 +1,4 @@
-# Summary
-
-* [MongoDB](README.md)
+* [快学MongoDB](README.md)
   * [MongoDB简介](./MongoDB/mongodb.md)
   * [NoSQL简介](./MongoDB/nosql.md)
   * [NoSQL与SQL对比](./MongoDB/nosql_and_sql.md)
